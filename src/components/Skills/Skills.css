@@ -1,0 +1,31 @@
+
+.heading{
+text-align: center;
+font-size: 60px;
+color: #fff;
+margin-bottom: 100px;
+margin-top:60px;
+}
+
+
+.work{
+    border-radius:10px;
+    overflow:hidden;
+    height:fit-content;
+    width:12rem;
+
+}
+
+
+.SkillName{
+    font-size: xx-large;
+    background-color: var(--color-bg-variant);
+    color: var(--color-primary);
+    text-align: center;
+
+}
+.SkillName:hover
+{
+    background-color: var(--color-primary);
+    color:var(--color-bg-variant); 
+}
